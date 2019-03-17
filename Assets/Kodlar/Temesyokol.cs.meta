@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d49da57f0cf92c342bcbb84513681bfb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - top: {fileID: 1382544114823560, guid: 83d50162be3177247ab61ad584481d67, type: 2}
+  - patlamakirmizi: {fileID: 1566203879680360, guid: c5b5bdf5f257409479f8b2ab7ab35d68,
+      type: 2}
+  - patlamasari: {fileID: 1136222849096544, guid: 68d00e771f594b742afc6fcdfe38cde3,
+      type: 2}
+  - patlamamavi: {fileID: 1416867667014962, guid: 635107b539051cc41853e29235e386ac,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
